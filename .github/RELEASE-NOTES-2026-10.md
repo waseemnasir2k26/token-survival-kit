@@ -1,0 +1,4 @@
+- token-survival-kit is a public single-page static landing site that hands out the SkynetLabs Token Survival Kit PDF (20 Claude Code token-saving tactics).
+- Current state: last functional commit was 2026-06-13 (premium PDF redesign and a social image); no changes since.
+- Reviewed October 2026: README contains no external links; docs refreshed. No page or PDF changes.
+- Known gaps: no LICENSE file; no live URL stated anywhere in the repo; no deploy config.
